@@ -90,5 +90,6 @@ public class MainActivity extends AppCompatActivity {
 ![output](./b.png)
 
 
+
 ## Result
 Thus the android application shows hello world 
